@@ -1,0 +1,10 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+src/attr/__init__.py
+src/attrs_sample.egg-info/PKG-INFO
+src/attrs_sample.egg-info/SOURCES.txt
+src/attrs_sample.egg-info/dependency_links.txt
+src/attrs_sample.egg-info/not-zip-safe
+src/attrs_sample.egg-info/top_level.txt
